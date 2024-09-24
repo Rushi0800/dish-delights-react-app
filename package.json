@@ -1,4 +1,5 @@
 {
+  "homepage": "http://rushibharadwaj.github.io/dish-delights-react-app",
   "name": "2.recipe-app",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +16,9 @@
 "scripts": {
   "start": "react-scripts start",
   "build": "react-scripts build",
-  "test": "react-scripts test"
+  "test": "react-scripts test",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
 },
 
   "eslintConfig": {
