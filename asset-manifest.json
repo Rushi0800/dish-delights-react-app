@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dish-delights-react-app/static/css/main.56410aad.css",
+    "main.js": "/dish-delights-react-app/static/js/main.fba30778.js",
+    "static/js/787.05c72c2e.chunk.js": "/dish-delights-react-app/static/js/787.05c72c2e.chunk.js",
+    "static/media/logo.svg": "/dish-delights-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dish-delights-react-app/index.html",
+    "main.56410aad.css.map": "/dish-delights-react-app/static/css/main.56410aad.css.map",
+    "main.fba30778.js.map": "/dish-delights-react-app/static/js/main.fba30778.js.map",
+    "787.05c72c2e.chunk.js.map": "/dish-delights-react-app/static/js/787.05c72c2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56410aad.css",
+    "static/js/main.fba30778.js"
+  ]
+}
